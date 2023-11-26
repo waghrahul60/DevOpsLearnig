@@ -18,7 +18,7 @@ Resources:
   HTTPSecurityGroup:
     Type: "AWS::EC2::SecurityGroup"
     Properties:
-      GroupDescription: Test Drift HTTP Security Group
+      GroupDescription: Test Drift HTTP Security Groupdfdsf csgfdsg  sdf 
       SecurityGroupIngress:
         - CidrIp: "0.0.0.0/0"
           FromPort: 80
